@@ -5,7 +5,6 @@ SQLAlchemy
 pydantic
 mysql-connector-python
 pymysql
-pyaudio
 chromadb
 langchain
 langchain-community
