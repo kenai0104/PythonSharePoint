@@ -3,9 +3,10 @@ import tempfile
 import requests
 from msal import PublicClientApplication
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
+
 
 # 🔐 Microsoft App Credentials
 CLIENT_ID = "354e1512-776d-47b9-9278-3dc4c5e62e66"
