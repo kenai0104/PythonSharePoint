@@ -1,0 +1,12 @@
+streamlit
+pyttsx3
+SpeechRecognition
+SQLAlchemy
+pydantic
+mysql-connector-python
+pymysql
+pyaudio
+chromadb
+langchain
+langchain-community
+sentence-transformers

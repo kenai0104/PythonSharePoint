@@ -1,0 +1,53 @@
+## Common Issues & Solutions
+
+1. **Order Not Processing**  
+   - Ensure your payment details are correct.  
+   - Clear your browser cache and try again.  
+   - Contact support if the issue persists.
+
+2. **Payment Declined**  
+   - Verify that your card details are correct.  
+   - Check if your bank has placed any restrictions.  
+   - Try using a different payment method.
+
+3. **Wrong Item Received**  
+   - Contact our support team within **7 days** of receiving the item.  
+   - Provide your order number and photos of the incorrect item.  
+   - We will arrange a replacement or refund.
+
+4. **Item Arrived Damaged**  
+   - If the item was damaged during shipping, report it within **48 hours** of delivery.  
+   - Submit clear photos as proof.  
+   - We will process a replacement or issue a refund.
+
+5. **Order Stuck in Processing**  
+   - Orders typically ship within **24-48 hours**.  
+   - If it’s taking longer, check your email for any updates.  
+   - Contact support if there are no updates after **3 days**.
+
+6. **Tracking Number Not Working**  
+   - Tracking updates may take **24-48 hours** to reflect.  
+   - Check the tracking website for delays.  
+   - Contact support if tracking is unavailable after **3 days**.
+
+7. **Can’t Apply Discount Code**  
+   - Ensure the code is valid and has not expired.  
+   - Check if your order meets the discount conditions.  
+   - Contact support for assistance.
+
+8. **Return Request Denied**  
+   - Items must be in **original condition** and within the **return period**.  
+   - Certain items (e.g., final sale items) may not be eligible for returns.  
+   - Review our return policy for more details.
+
+9. **Refund Delayed**  
+   - Refunds take **5-10 business days** to process.  
+   - Check with your bank if it takes longer.  
+   - Contact support if you haven’t received it after **10 days**.
+
+10. **Account Login Issues**  
+   - Reset your password if you’re unable to log in.  
+   - Check for typos in your email or username.  
+   - Contact support if the issue persists.
+
+📩 **Need more help?** Email us at **support@company.com** or visit our FAQ section.
